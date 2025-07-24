@@ -13,7 +13,7 @@
 <span style="color:#ffffff;">- Has a much better <a href="https://steamcommunity.com/id/ETAGamerPC" style="color:#00afff;">steam profile</a></span>
 
 <span style="color:#00d787;">@ETAModder</span> ➜ <span style="color:#5fafff;">/workspaces/ETAModder</span> <span style="color:#d75f5f;">(main)</span> $ <span style="color:#ffffff;">ls projects</span>
-<span style="color:#ffffff;">python/     js/     gh/     fslsecret/     /screenshots</span>
+<span style="color:#ffffff;">python/     js/     gh/     fslsecret/     screenshots/</span>
 
 <span style="color:#00d787;">@ETAModder</span> ➜ <span style="color:#5fafff;">/workspaces/ETAModder</span> <span style="color:#d75f5f;">(main)</span> $ <span style="color:#ffffff;">git status</span>
 <span style="color:#ffffff;">On branch main</span>
