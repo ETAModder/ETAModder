@@ -15,3 +15,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ETAModder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/ETAModder/ETAModder/output/snake.svg" alt="Snake animation" />
