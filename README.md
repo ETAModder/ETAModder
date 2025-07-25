@@ -1,4 +1,4 @@
-@ETAModder ➜ /workspaces/ETAModder (main) $ **readmegen.sh**
+**@**\ETAModder ➜ /workspaces/ETAModder **(**\main\\**)** \$ **readmegen.sh**
 
 
 <div align="left">
