@@ -1,4 +1,4 @@
-@ETAModder ➜ /workspaces/ETAModder (*main*) $ **readmegen.sh**
+<img src="https://etamodder.github.io/cdn/bash1.png" alt="git bash style command line">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
