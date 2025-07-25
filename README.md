@@ -1,5 +1,3 @@
-<img src="https://etamodder.github.io/cdn/bash1.png" alt="git bash style command line">
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
