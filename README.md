@@ -1,5 +1,4 @@
-**@**ETAModder ➜ /workspaces/ETAModder **(**main**)** $ **readmegen.sh**
-
+**@**ETAModder ➜ /workspaces/ETAModder (main) $ readmegen.sh
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
