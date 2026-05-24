@@ -42,7 +42,7 @@
 
 ###
 
-<div class="badges" style="display: grid; grid-template-columns: repeat(auto-fit, 88px); justify-content: center; gap: 4px;">
+<div class="badges" style="display:grid; grid-template-columns:repeat(6, 88px); justify-content:center; gap:4px;">
 
   <a href="https://yesterweb.org/no-to-web3/" target="_blank" rel="noopener noreferrer" style="display:block; width:88px; height:31px; line-height:0;">
     <img src="https://etamodder.github.io/88x31s/say-no-to-web3.gif" alt="say NO to web3. keep the web FREE!" style="width:88px; height:31px; display:block;">
