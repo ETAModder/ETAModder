@@ -42,102 +42,22 @@
 
 ###
 
-<div class="badges" style="display:grid; grid-template-columns:repeat(6, 88px); justify-content:center; gap:4px;">
+<table>
+  <tr>
+    <td><img src="https://etamodder.github.io/88x31s/say-no-to-web3.gif" width="88" height="31"></td>
+    <td><img src="https://etamodder.github.io/88x31s/shareware.gif" width="88" height="31"></td>
+    <td><img src="https://etamodder.github.io/88x31s/shorturl.gif" width="88" height="31"></td>
+    <td><img src="https://etamodder.github.io/88x31s/no-webp.gif" width="88" height="31"></td>
+    <td><img src="https://etamodder.github.io/88x31s/no-phones-get-pcs.gif" width="88" height="31"></td>
+    <td><img src="https://etamodder.github.io/88x31s/no-google.gif" width="88" height="31"></td>
+  </tr>
 
-  <a href="https://yesterweb.org/no-to-web3/" target="_blank" rel="noopener noreferrer" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/say-no-to-web3.gif" alt="say NO to web3. keep the web FREE!" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Shareware" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/shareware.gif" alt="pass the SHAREWARE please." style="width:88px; height:31px; display:block;">
-  </a>
-
-  <a href="https://shorturl.com" target="_blank" rel="noopener noreferrer" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/shorturl.gif" alt="got a long url? get a FREE subdomain!" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <div style="display:block; width:88px; height:31px;">
-    <img src="https://etamodder.github.io/88x31s/no-webp.gif" alt="NO WEBP! use png!" style="width:88px; height:31px; display:block;">
-  </div>
-
-  <div style="display:block; width:88px; height:31px;">
-    <img src="https://etamodder.github.io/88x31s/no-phones-get-pcs.gif" alt="don't be a phone chump, get a pc!" style="width:88px; height:31px; display:block;">
-  </div>
-
-  <div style="display:block; width:88px; height:31px;">
-    <img src="https://etamodder.github.io/88x31s/no-google.gif" alt="stand up to google!" style="width:88px; height:31px; display:block;">
-  </div>
-
-  <a href="https://www.linux.org/pages/download" target="_blank" rel="noopener noreferrer" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/linux.gif" alt="linux NOW!" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <div style="display:block; width:88px; height:31px;">
-    <img src="https://etamodder.github.io/88x31s/internet-privacy.gif" alt="internet privacy NOW!" style="width:88px; height:31px; display:block;">
-  </div>
-
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/html-learn-today.gif" alt="learn html5" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <div style="display:block; width:88px; height:31px;">
-    <img src="https://etamodder.github.io/88x31s/ipv6.gif" alt="ipv6" style="width:88px; height:31px; display:block;">
-  </div>
-
-  <div style="display:block; width:88px; height:31px;">
-    <img src="https://etamodder.github.io/88x31s/monoposoft.gif" alt="monoposoft internet exploiter" style="width:88px; height:31px; display:block;">
-  </div>
-
-  <div style="display:block; width:88px; height:31px;">
-    <img src="https://etamodder.github.io/88x31s/best-viewed-any.gif" alt="best viewed with ANY browser" style="width:88px; height:31px; display:block;">
-  </div>
-
-  <a href="https://etamodder.github.io" target="_blank" rel="noopener noreferrer" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/website-88x31.gif" alt="do u like retro stuff? if so, go to eta's site (which ur already on)" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <a href="https://r74n.com" target="_blank" rel="noopener noreferrer" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/r74n.png" alt="R74n" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <a href="https://www.mozilla.org/firefox/" target="_blank" rel="noopener noreferrer" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/anything-but-chrome.gif" alt="anything but Chrome!" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <div style="display:block; width:88px; height:31px;">
-    <img src="https://etamodder.github.io/88x31s/delete-twitter.gif" alt="delete Twitter!" style="width:88px; height:31px; display:block;">
-  </div>
-
-  <a href="https://www.linux.org/pages/download" target="_blank" rel="noopener noreferrer" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/linux-now.gif" alt="linux NOW!" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <a href="https://ublockorigin.com/" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/ublock-now.png" alt="uBlock origin NOW!" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <a href="https://matrix.org/" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/discord-no-way.gif" alt="discord? no thanks!" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <a href="https://neocities.org/" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/neocities.gif" alt="neocities: the web is yours" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <a href="https://grapheneos.org/" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/graphene-os.gif" alt="graphene OS" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <a href="https://emulationstation.org/" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/emulate-now.gif" alt="emulate NOW!" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Torrent_file" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/seed-torrents.gif" alt="sharing is caring, seed your torrents!" style="width:88px; height:31px; display:block;">
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Windows_XP" style="display:block; width:88px; height:31px; line-height:0;">
-    <img src="https://etamodder.github.io/88x31s/windows-xp.gif" alt="microsoft windows XP" style="width:88px; height:31px; display:block;">
-  </a>
-
-</div>
+  <tr>
+    <td><img src="https://etamodder.github.io/88x31s/linux.gif" width="88" height="31"></td>
+    <td><img src="https://etamodder.github.io/88x31s/internet-privacy.gif" width="88" height="31"></td>
+    <td><img src="https://etamodder.github.io/88x31s/html-learn-today.gif" width="88" height="31"></td>
+    <td><img src="https://etamodder.github.io/88x31s/ipv6.gif" width="88" height="31"></td>
+    <td><img src="https://etamodder.github.io/88x31s/monoposoft.gif" width="88" height="31"></td>
+    <td><img src="https://etamodder.github.io/88x31s/best-viewed-any.gif" width="88" height="31"></td>
+  </tr>
+</table>
