@@ -46,7 +46,7 @@
 
 ###
 
-<a href="https://github.com/ETAModder/ETAModder/publickey.asc" target="_blank" rel="noopener noreferrer"
+<a href="https://github.com/ETAModder/ETAModder/blob/main/publickey.asc" target="_blank" rel="noopener noreferrer"
    style="font-family:monospace; color:#00ff00; text-decoration:none;">
   [ PGP PUBLIC KEY ]
 </a>
