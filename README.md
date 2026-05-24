@@ -42,11 +42,4 @@
 
 ###
 
-<div style="text-align:center;">
-  <img src="https://etamodder.github.io/88x31s/say-no-to-web3.gif" width="88" height="31" style="display:inline-block;">
-  <img src="https://etamodder.github.io/88x31s/shareware.gif" width="88" height="31" style="display:inline-block;">
-  <img src="https://etamodder.github.io/88x31s/shorturl.gif" width="88" height="31" style="display:inline-block;">
-  <img src="https://etamodder.github.io/88x31s/no-webp.gif" width="88" height="31" style="display:inline-block;">
-  <img src="https://etamodder.github.io/88x31s/no-phones-get-pcs.gif" width="88" height="31" style="display:inline-block;">
-  <img src="https://etamodder.github.io/88x31s/no-google.gif" width="88" height="31" style="display:inline-block;">
-</div>
+<img src="https://pacman.abozanona.me?username=etamodder" />
