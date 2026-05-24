@@ -43,3 +43,10 @@
 ###
 
 <img src="https://pacman.abozanona.me?username=etamodder" />
+
+###
+
+<a href="https://github.com/ETAModder/ETAModder/publickey.asc" target="_blank" rel="noopener noreferrer"
+   style="font-family:monospace; color:#00ff00; text-decoration:none;">
+  [ PGP PUBLIC KEY ]
+</a>
